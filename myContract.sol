@@ -6,6 +6,7 @@ contract myContract {
     uint256 private value;
 
     function addValue(uint256 newValue) public {
+        require(newValue >= 10, "Value has to be greater than 10");
         value = newValue;
     }
 
