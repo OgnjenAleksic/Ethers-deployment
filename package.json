@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "ethers": "^5.7.2",
+    "file-system": "^2.2.2",
+    "solc": "^0.8.17"
+  }
+}

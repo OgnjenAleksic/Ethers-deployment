@@ -1,0 +1,4 @@
+.env
+node_modules
+myContract_sol_myContract.abi
+myContract_sol_myContract.bin
